@@ -3,7 +3,7 @@ Changes your wallpaper periodically.
 
 The Source Code is shown above, however if you just want to run the program an executable is provided:
 
-[Click here to download (Win10)](https://github.com/gtyson/Automatic-Wallpaper/releases/download/1.0/Automatic-Wallpaper.exe)
+[Click here to download [Win10]](https://github.com/gtyson/Automatic-Wallpaper/releases/download/1.0/Automatic-Wallpaper.exe)
 
 The wallpaper images will be stored in the folder called images, feel free to add or delete wallpapers to your preference
 
