@@ -1,7 +1,7 @@
 # Automatic-Wallpaper
 Changes your wallpaper periodically.
 
-The Source Code is shown above ,However if you just want to run the program an excutable is provided :
+The Source Code is shown above, however if you just want to run the program an executable is provided:
 
 [Click here to download (Win10)](https://github.com/gtyson/Automatic-Wallpaper/releases/download/1.0/Automatic-Wallpaper.exe)
 
@@ -13,8 +13,6 @@ The settings file contains the value for the time intervals between the wallpape
 {"time":3600}
 ```
 Set the value in seconds to your preference.
-
-The images folder stores the wallpapers.
 
 ### AutoStart at Boot:
 If you want the program to launch automatically at the start of your device
