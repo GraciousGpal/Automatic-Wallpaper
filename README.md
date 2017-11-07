@@ -1,5 +1,5 @@
 # Automatic-Wallpaper
-Changes your wallpaper periodically.
+Downloads wallpapers from the internet and changes your wallpaper periodically.
 
 The Source Code is shown above, however if you just want to run the program an executable is provided:
 
