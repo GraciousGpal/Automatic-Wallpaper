@@ -47,7 +47,7 @@ if output_json["startup"] is True:
     else:
         ws = win32com.client.Dispatch("wscript.shell")
         scut = ws.CreateShortcut(mypath+'\Automatic-Wallpaper.lnk')
-        scut.TargetPath = __file__
+        scut.TargetPath = __file__.replace(".py", ".exe")
         scut.Save()
 else:
     if output_json["startup"] is False:
